@@ -1,0 +1,11 @@
+# Site settings
+title: Designs By Eileen
+email: esuffian@verizon.net
+description: Handmade Jewlery by Eileen
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://designsbyeileen.com"
+twitter_username: addme
+github_username:  esuffian
+
+# Build settings
+markdown: kramdown

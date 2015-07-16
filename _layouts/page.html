@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div class="post">
+  <h2>
+    <a class="post-link" href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a>
+  </h2>
+  <img src="{{ page.image_url }}" alt="The {{ page.name }}" />
+  <p>{{ page.description }} Price: ${{ page.price }}.</p>
+  <script async="async" 
+          src="https://www.paypalobjects.com/js/external/paypal-button.min.js?merchant=5VUE2N5G9NLEA" 
+          data-name="{{ page.title }}"
+          data-amount="{{ page.price }}.00"
+          data-button="buynow"
+  ></script>
+</div>
