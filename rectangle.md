@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rectagle copper earrings 
+title: Rectangle copper earrings 
 permalink: /rectangle-earrings/
 price: 48
 description: Three dimensional copper earrings with sterling silver ear wires.
