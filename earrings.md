@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Earrings
+title: Mixed Metal geometric earrings
 permalink: /earrings/
 price: 68
 description: Copper silver and brass geometic earrings with sterling silver ear wires
