@@ -1,6 +1,6 @@
 ---
 layout: page
-title: B chozek yad Mezuzzah
+title: B chozek yad Mezuzah
 permalink: /mezzuzzah/
 price: 45
 description: This is a hand-made copper Mezuzah using an imprint from my great grandmother's lace.
